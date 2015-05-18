@@ -1,0 +1,1 @@
+compile : make ----> ./lab5 ----> Enter a number (x) ----> you'll get the answer
